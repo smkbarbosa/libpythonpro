@@ -5,4 +5,4 @@ pycodestyle==2.6.0
 pyflakes==2.2.0
 typing-extensions==3.7.4.3
 zipp==3.4.0
-f-r requirements.txt
+-r requirements.txt
