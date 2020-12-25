@@ -59,4 +59,4 @@ pr_prefix:
 
 # allow to close stale PRs
 # default: True
-close_prs: True
+close_prs:
