@@ -1,5 +1,8 @@
 # LibPythonPro
 [![Build Status](https://travis-ci.org/smkbarbosa/libpythonpro.svg?branch=main)](https://travis-ci.org/smkbarbosa/libpythonpro)
+[![Updates](https://pyup.io/repos/github/smkbarbosa/libpythonpro/shield.svg)](https://pyup.io/repos/github/smkbarbosa/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/smkbarbosa/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/smkbarbosa/libpythonpro/)
+
 
 Módulo para exemplificar a construção de projetos Python no curso PyTools
 
