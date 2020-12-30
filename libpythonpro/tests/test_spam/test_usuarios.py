@@ -13,6 +13,4 @@ def test_listar_usuario(sessao):
     for usuario in usuarios:
         sessao.salvar(usuario)
     assert usuarios == sessao.listar()
-    sessao.roll_back()
-    sessao.fechar()
-    conexao.fechar()
+
